@@ -1,12 +1,12 @@
 ﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor,Cut (colorless),Cut (vanilla),Cut (other)
 Angelic Gift,{1}{W},Enchantment — Aura,"Enchant creature
 When this Aura enters, draw a card.
-Enchanted creature has flying.",,common,,,,,,,,,
+Enchanted creature has flying.",,common,,,,,,,,,1
 Assassinate,{2}{B},Sorcery,Destroy target tapped creature.,,common,,,,,,,,,
 Auger Spree,{1}{B}{R},Instant,Target creature gets +4/-4 until end of turn.,,common,,,,,,1,,,
 Aurora Champion,{2}{W},Creature — Elf Warrior,"Whenever this creature attacks, if your team controls another Warrior, tap target creature.",3/2,common,,,,1,,,,,
 Azra Bladeseeker,{2}{R},Creature — Azra Warrior,"When this creature enters, each player on your team may discard a card, then each player who discarded a card this way draws a card.",3/2,common,,,,1,,,,,
-Bathe in Dragonfire,{2}{R},Sorcery,Bathe in Dragonfire deals 4 damage to target creature.,,common,,,,,,,,,
+Bathe in Dragonfire,{2}{R},Sorcery,Bathe in Dragonfire deals 4 damage to target creature.,,common,,,,,,,,,1
 Battle Rampart,{2}{R},Creature — Wall,"Defender
 {T}: Target creature gains haste until end of turn.",1/3,common,,,,,,,,,
 Benthic Giant,{5}{U},Creature — Giant,Hexproof (This creature can't be the target of spells or abilities your opponents control.),4/5,common,,,,,,,,,
@@ -46,11 +46,11 @@ Expedite,{R},Instant,"Target creature gains haste until end of turn.
 Draw a card.",,common,,,,,,,,,
 Expedition Raptor,{3}{W}{W},Creature — Bird,"Flying
 When this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",2/2,common,,1,,,,,,,
-Eyeblight Assassin,{2}{B},Creature — Elf Assassin,"When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.",2/2,common,,,,,,,,,
+Eyeblight Assassin,{2}{B},Creature — Elf Assassin,"When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.",2/2,common,,,,,,,,,1
 Fan Favorite,{3}{B},Creature — Human Rogue,"Assist (Another player can pay up to {3} of this spell's cost.)
 {2}: This creature gets +1/+1 until end of turn. Any player may activate this ability.",2/2,common,1,,,,,,,,
 Fertile Ground,{1}{G},Enchantment — Aura,"Enchant land
-Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",,common,,,,,,,,,
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",,common,,,,,,,,,1
 Fill with Fright,{3}{B},Sorcery,"Target player discards two cards. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",,common,,,,,,,,,
 Forest,,Basic Land — Forest,({T}: Add {G}.),,common,,,,,,,,,
 Frost Lynx,{2}{U},Creature — Elemental Cat,"When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",2/2,common,,,,,,,,,
@@ -63,15 +63,15 @@ Two target players each draw a card.",,common,1,,,,,,,,
 Impulse,{1}{U},Instant,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,,common,,,,,,,,,
 Island,,Basic Land — Island,({T}: Add {U}.),,common,,,,,,,,,
 Jungle Wayfinder,{2}{G},Creature — Elf Warrior,"When this creature enters, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle.",3/3,common,,,,,,,,,
-Kitesail Corsair,{1}{U},Creature — Human Pirate,This creature has flying as long as it's attacking.,2/1,common,,,,,,,,,
+Kitesail Corsair,{1}{U},Creature — Human Pirate,This creature has flying as long as it's attacking.,2/1,common,,,,,,,,,1
 Kraken Hatchling,{U},Creature — Kraken,,0/4,common,,,,,,,,1,
-Kraul Warrior,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn.,2/2,common,,,,,,,,,
+Kraul Warrior,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn.,2/2,common,,,,,,,,,1
 Last Gasp,{1}{B},Instant,Target creature gets -3/-3 until end of turn.,,common,,,,,,,,,
 Lead by Example,{1}{G},Instant,Support 2. (Put a +1/+1 counter on each of up to two target creatures.),,common,,1,,,,,,,
 Lightning Talons,{2}{R},Enchantment — Aura,"Enchant creature
 Enchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)",,common,,,,,,,,,
 Lightwalker,{1}{W},Creature — Human Warrior,This creature has flying as long as it has a +1/+1 counter on it.,2/1,common,,,,,,,,,
-Liturgy of Blood,{3}{B}{B},Sorcery,Destroy target creature. Add {B}{B}{B}.,,common,,,,,,,,,
+Liturgy of Blood,{3}{B}{B},Sorcery,Destroy target creature. Add {B}{B}{B}.,,common,,,,,,,,,1
 Magma Hellion,{6}{R},Creature — Hellion,"Assist (Another player can pay up to {6} of this spell's cost.)
 Trample, haste",5/4,common,1,,,,,,,,
 Midnight Guard,{2}{W},Creature — Human Soldier,"Whenever another creature enters, untap this creature.",2/3,common,,,,,,,,,
@@ -110,7 +110,7 @@ Shock,{R},Instant,Shock deals 2 damage to any target.,,common,,,,,,,,,
 Shoulder to Shoulder,{2}{W},Sorcery,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 Draw a card.",,common,,1,,,,,,,
 Sickle Dancer,{2}{B},Creature — Human Warrior,"Whenever this creature attacks, if your team controls another Warrior, this creature gets +1/+1 until end of turn.",3/2,common,,,,1,,,,,
-Silverchase Fox,{1}{W},Creature — Fox,"{1}{W}, Sacrifice this creature: Exile target enchantment.",2/2,common,,,,,,,,,
+Silverchase Fox,{1}{W},Creature — Fox,"{1}{W}, Sacrifice this creature: Exile target enchantment.",2/2,common,,,,,,,,,1
 Skyshroud Claim,{3}{G},Sorcery,"Search your library for up to two Forest cards, put them onto the battlefield, then shuffle.",,common,,,,,,,,,
 Skystreamer,{4}{W},Creature — Griffin,"Assist (Another player can pay up to {4} of this spell's cost.)
 Flying
@@ -120,12 +120,12 @@ When this creature enters, each player draws a card.",2/2,common,,,,,,,,,
 Sparring Mummy,{3}{W},Creature — Zombie,"When this creature enters, untap target creature.",3/3,common,,,,,,,,,
 Spellweaver Duo,{6}{U},Creature — Human Wizard,"Assist (Another player can pay up to {6} of this spell's cost.)
 When this creature enters, you may return target tapped creature to its owner's hand.",4/4,common,1,,,,,,,,
-Stadium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a player. That player adds two mana of any one color they choose.",3/3,common,,,,,,,,,
+Stadium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a player. That player adds two mana of any one color they choose.",3/3,common,,,,,,,,,1
 Stone Golem,{5},Artifact Creature — Golem,,4/4,common,,,,,,,1,,
 Swamp,,Basic Land — Swamp,({T}: Add {B}.),,common,,,,,,,,,
 Tandem Tactics,{1}{W},Instant,Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.,,common,,,,,,,,,
 Thunder Strike,{1}{R},Instant,Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.),,common,,,,,,,,,
-Totally Lost,{4}{U},Instant,Put target nonland permanent on top of its owner's library.,,common,,,,,,,,,
+Totally Lost,{4}{U},Instant,Put target nonland permanent on top of its owner's library.,,common,,,,,,,,,1
 Tyrant's Machine,{2},Artifact,"{4}, {T}: Tap target creature.",,common,,,,,,,,,
 Urborg Drake,{1}{U}{B},Creature — Drake,"Flying
 This creature attacks each combat if able.",2/3,common,,,,,,1,,,
