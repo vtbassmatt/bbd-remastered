@@ -1,4 +1,4 @@
-Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity
+﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity
 Aim High,{1}{G},Instant,Untap target creature. It gets +2/+2 and gains reach until end of turn.,,uncommon
 Angel of Retribution,{6}{W},Creature — Angel,"Flying, first strike",5/5,uncommon
 Angelic Chorus,{3}{W}{W},Enchantment,"Whenever a creature you control enters, you gain life equal to its toughness.",,rare
