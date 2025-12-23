@@ -33,8 +33,11 @@ Kraul Brawler,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+
 Wurm Gauntlets,{4}{G}{G},Artifact Creature — Equipment Wurm,"Trample
 Equipped creature gets +6/+6 and has trample.
 Load out {1}{G} ({1}{G}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.",6/6,uncommon,,,,,,
-[2 2/2],,,,,uncommon,,,,,,
-[3 3/1],,,,,uncommon,,,,,,
-[3 1/4],,,,,uncommon,,,,,,
-[5 4/4],,,,,uncommon,,,,,,
-[7 5/7],,,,,uncommon,,,,,,
+Ticket Tortoise,{2},Artifact Creature — Turtle,"Defender
+When this creature enters, if an opponent controls more lands than you, you create a Treasure token.",3/1,uncommon,,,,,,
+Copper Squire,{3},Artifact Creature — Golem,{T}: Attach target Equipment you control to target creature your team controls.,2/2,uncommon,,,,,,
+Unexpected Powerup,{3},Instant,"Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flashback {1}",,uncommon,,,,,,
+Referee's Call,{5},Sorcery,"For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.",,uncommon,,,,,1,
+Mechanical Official,{7},Artifact Creature — Construct,"Support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
