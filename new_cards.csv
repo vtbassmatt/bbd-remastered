@@ -4,25 +4,35 @@ Flying
 Enchanted creature gets +2/+2 and has flying.",2/2,uncommon,,,,,,
 Yellow Card,{2}{W},Instant,"Assist (Another player can pay up to {2} of this spell’s cost.)
 Exile target artifact or enchantment.",,uncommon,1,,,,,
-[1W 3/1],,,,,uncommon,,,,,,
+Effortless Wings,{1}{W},Artifact Creature — Equipment Angel,"Flying
+Equipped creature gets +3/+1 and has flying.
+Load out {1}{W} ({1}{W}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",3/1,uncommon,,,,,,
 Zephyr Winder,{1}{U},Creature — Elemental,"Flying
 Whenever this creature deals combat damage to a player, untap up to one target creature.",2/1,uncommon,,,,,,
 Lost Under the Stadium,{3}{U}{U},Instant,"Assist (Another player can pay up to {3} of this spell's cost.)
 Put target nonland permanent on top of its owner's library.",,uncommon,1,,,,,
-[U 0/4],,,,,uncommon,,,,,,
+Portable Fortress,{1}{U},Artifact Creature — Equipment Kraken,"Flash, defender
+Equipped creature gets +0/+4, has vigilance, and loses defender.
+Load out {1}{U} ({1}{U}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",0/4,uncommon,,,,,,
 Stern Referee,{2}{B},Creature — Elf Noble,"When this creature enters, put a +1/+1 counter on target creature your team controls and a -1/-1 counter on target creature your team doesn't control.",3/1,uncommon,,,,1,,
 Annihilating Glare,{B},Sorcery,"As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
 Destroy target creature or planeswalker.",,uncommon,,,,,,
-[3B 3/4],,,,,uncommon,,,,,,
+Tasteful Battlehelm,{2}{B},Artifact Creature — Equipment Azra,"Deathtouch
+Equipped creature gets +2/+3 and has deathtouch.
+Load out {1}{B} ({1}{B}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",2/3,uncommon,,,,,,
 Shower with Dragonfire,{3}{R},Sorcery,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 Shower with Dragonfire deals 4 damage to target creature.",,uncommon,,,,,,
 Premium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a player. That player draws a card, discards a card, and adds two mana of any one color they choose.",3/3,uncommon,,,,,,
-[3RR 4/5],,,,,uncommon,,,,,,
+Earthen Greaves,{3}{R}{R},Artifact Creature — Equipment Elemental,"Menace
+Equipped creature gets +4/+5 and has menace.
+Load out {1}{R} ({1}{R}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",4/5,uncommon,,,,,,
 Mana Bloom,{X}{G},Enchantment,"This enchantment enters with X charge counters on it.
 Remove a charge counter from this enchantment: Add one mana of any color. Activate only once each turn.
 At the beginning of your upkeep, if this enchantment has no charge counters on it, return it to its owner’s hand.",,uncommon,,,,,,
 Kraul Brawler,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn. Any player may activate this ability.,2/2,uncommon,,,,,,
-[4GG 6/6],,,,,uncommon,,,,,,
+Wurm Gauntlets,{4}{G}{G},Artifact Creature — Equipment Wurm,"Trample
+Equipped creature gets +6/+6 and has trample.
+Load out {1}{G} ({1}{G}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.",6/6,uncommon,,,,,,
 [2 2/2],,,,,uncommon,,,,,,
 [3 3/1],,,,,uncommon,,,,,,
 [3 1/4],,,,,uncommon,,,,,,

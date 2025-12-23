@@ -34,3 +34,7 @@
   - Downshift canon Mana Bloom to uncommon
 - Kraul Warrior -> team can help pay the cost
   - Kraul Brawler is a simple upgrade
+
+# Additions
+
+- A new cycle of Reconfigure-like equipment creatures. These can be attached to your teammate. They replace the cut common vanilla creatures.
