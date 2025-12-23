@@ -1,0 +1,41 @@
+# Remaster Gallery
+
+## Vanilla commons
+
+New mechanic: **Load out**.
+
+1. Load out represents two activated abilities. Load out [cost] means “[Cost]: Attach this permanent to another target creature your team controls. Activate only as a sorcery” and “[Cost]: Unattach this permanent. Activate only if this permanent is attached to a creature and only as a sorcery.”
+2. Attaching an Equipment with load out to another creature causes the Equipment to stop being a creature until it becomes unattached from that creature.
+
+| BBD card | Remastered as |
+|----------|---------------|
+| ![Raptor Companion](https://cards.scryfall.io/normal/front/4/5/45385c8e-fff9-46e7-97e8-f946306b5147.jpg?1562909010) | Effortless Wings {1}{W}<br>Artifact Creature — Equipment Angel<br>Flying<br>Equipped creature gets +3/+1 and has flying.<br>Load out {1}{W} <i>({1}{W}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)</i><br>3/1
+| ![Kraken Hatchling](https://cards.scryfall.io/normal/front/c/c/cc1f65c8-4941-41ac-9340-f741725ec71c.jpg?1758104128) | Portable Fortress {1}{U}<br>Artifact Creature — Equipment Kraken<br>Flash, defender<br>Equipped creature gets +0/+4, has vigilance, and loses defender.<br>Load out {1}{U}<br>0/4
+| ![Prakhata Club Security](https://cards.scryfall.io/normal/front/c/4/c46da57d-bcb9-4303-aa1c-72d08bb2b5a8.jpg?1562934392) | Tasteful Battlehelm {2}{B}<br>Artifact Creature — Equipment Azra<br>Deathtouch<br>Equipped creature gets +2/+3 and has deathtouch.<br>Load out {1}{B}<br>2/3
+| ![Earth Elemental](https://cards.scryfall.io/normal/front/6/5/659eeb25-b79b-4229-9d84-e28f6a636958.jpg?1562915626) | Earthen Greaves {3}{R}{R}<br>Artifact Creature — Equipment Elemental<br>Menace<br>Equipped creature gets +4/+5 and has menace.<br>Load out {1}{R}<br>4/5
+| ![Cowl Prowler](https://cards.scryfall.io/normal/front/f/3/f372f545-b70c-470b-9aab-4a2ea900f777.jpg?1562943932) | Wurm Gauntlets {4}{G}{G}<br>Artifact Creature — Equipment Wurm<br>Trample<br>Equipped creature gets +6/+6 and has trample.<br>Load out {1}{G}<br>6/6
+
+## Role-filler colorless
+
+| BBD card | Remastered as |
+|----------|---------------|
+| ![Eager Construct](https://cards.scryfall.io/normal/front/9/a/9adf2525-e555-4174-b89a-ed1bef8711ef.jpg?1562926256) | ![Ticket Tortoise](https://cards.scryfall.io/normal/front/f/a/fa178ed7-8f3a-45f0-817d-5fbc7993b04a.jpg?1738356856)<br>A canon card for mana catchup.
+| ![Night Market Guard](https://cards.scryfall.io/normal/front/2/0/2098bb0f-6ab5-407c-93f7-fee3b385926e.jpg?1562901472) | Copper Squire {3}<br>Artifact Creature — Golem<br>{T}: Attach target Equipment you control to target creature your team controls<br>2/2<br><br>Like [Brass Squire](https://scryfall.com/card/cmr/460/brass-squire), but taking the 2/2 body that Eager Construct gave up.
+| ![Yotian Soldier](https://cards.scryfall.io/normal/front/9/e/9e71190b-c96c-4aea-9696-780c69eff395.jpg?1562926960) | Unexpected Powerup {3}<br>Instant<br>Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.<br>Rebound <i>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i><br>Flashback {1}<br><br>I thought about slotting in [Atraxa's Skitterfang](https://scryfall.com/card/one/223/atraxas-skitterfang), but the flavor was wrong. Instead, this is a 3-use instant (once from hand, then from exile with Rebound, then later from the graveyard with Rebound) which functionally does the same thing.
+| ![Stone Golem](https://cards.scryfall.io/normal/front/a/5/a579b67a-a5ac-496e-be41-9eabe29d0e93.jpg?1562928430) | Referee's Call {5}<br>Sorcery<br>For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.<br><br>Filling in the colorless slot of the Friend or Foe cycle. In a 2HG game, this still nets the team 4/4 worth of bodies.
+| ![Hexplate Golem](https://cards.scryfall.io/normal/front/9/8/98534255-d8cd-4f42-8b90-f5672fb879a2.jpg?1562925747) | Mechanical Official {7}<br>Artifact Creature — Construct<br>Support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.<br>1/3<br><br>If you choose to support no other creatures, the card remains a 5/7 for 7. But with this design, you can give away up to 4 P/T in the form of counters on other creatures instead.
+
+## Upgrades
+
+| BBD card | Remastered as |
+|----------|---------------|
+| Angelic Gift | Eidolon of Angels {1}{W}<br>Enchantment Creature — Spirit<br>Bestow {2}{W} <i>(If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)</i><br>Flying<br>Enchanted creature gets +2/+2 and has flying.<br>2/2<br><br>Something more impactful than a cantrip flying aura. Used Bestow to keep an Aura spell in that slot, since other cards in BBD care about Auras.
+| Silverchase Fox | Yellow Card {2}{W}<br>Instant<br>Assist <i>(Another player can pay up to {2} of this spell’s cost.)</i><br>Exile target artifact or enchantment.<br><br>Flexible artifact/enchantment destruction. This can be an instant since we picked up a 2/2 for 2 in the previous white slot.
+| Kitesail Corsair | ![Zephyr Winder](https://cards.scryfall.io/normal/front/1/4/14456a8e-016c-4407-8410-c490db3f5ea9.jpg?1682206512)<br>Wanted a [Welkin Tern](https://scryfall.com/card/gs1/5/welkin-tern) or better. This canon card is strictly better than the Corsair.
+| Totally Lost | Lost Under the Stadium {3}{U}{U}<br>Instant<br>Assist <i>(Another player can pay up to {3} of this spell's cost.)</i><br>Put target nonland permanent on top of its owner's library.<br><br>Wanted a card that was similar but included Assist. I'm not totally happy with the 3UU cost and making yet-another-Assist card, so consider this a first draft.
+| Eyeblight Assassin | Stern Referee {2}{B}<br>Creature — Elf Noble<br>When this creature enters, put a +1/+1 counter on target creature your team controls and a -1/-1 counter on target creature your team doesn't control.<br>3/1<br><br>Just wanted something more exciting. This does some counter/anti-counter shenanigans, so we'll see.
+| Liturgy of Blood | ![Annihilating Glare](https://cards.scryfall.io/normal/front/b/e/be5d0b95-ec12-4e8e-99a0-7aca457f9107.jpg?1675957005)<br>In addition to this canon card, I looked at [Fell](https://scryfall.com/card/blb/95/fell) but decided to keep the overcosted version.
+| Bathe in Dragonfire | Shower with Dragonfire {3}{R}<br>Sorcery<br>Surge {1}{R} <i>(You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)</i><br>Shower with Dragonfire deals 4 damage to target permanent.<br><br>A bump that can use Surge to bring the cost down.
+| Stadium Vendors | Premium Vendors {3}{R}<br>Creature — Goblin<br>When this creature enters, choose a player. That player draws a card, discards a card, and adds two mana of any one color they choose.<br>3/3<br><br>A simple upgrade adding a rummage effect.
+| Fertile Ground | ![Mana Bloom](https://cards.scryfall.io/normal/front/d/7/d7592d88-64e8-4a31-b00a-f65d4b1867fc.jpg?1562793871)<br>A bit more exciting. Can this canon rare be downgraded to uncommon? Well, I thought so.
+| Kraul Warrior | Kraul Brawler {1}{G}<br>Creature — Insect Warrior<br>{5}{G}: This creature gets +3/+3 until end of turn. Any player may activate this ability.<br>2/2<br><br>A straight upgrade letting the team help pay for the ability.

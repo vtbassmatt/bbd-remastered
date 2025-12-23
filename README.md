@@ -28,13 +28,13 @@ The original [Battlebond card list](battlebond_cards.csv) had some weak spots.
 
 ### Additions
 
-The cut slots were shifted to uncommon.
+The cut slots were shifted to uncommon and [replaced](new_cards.csv).
 
-- The vanilla creatures are replaced by a new cycle of equipment creatures modeled after the Reconfigure cards in Neon Dynasty.
+- The vanilla creatures are replaced by a new cycle of equipment creatures modeled after the Reconfigure cards in Neon Dynasty. They use a mechanic called "Load out", which is Reconfigure but you can attach them to creatures your team controls.
 - The colorless creatures were replaced with various role-fillers both canon and non-canon.
 - The rest of the cut commons were upgraded to be more interesting.
 
-See the [notes](notes.md) for details.
+See the [gallery](gallery.md) for card-by-card walkthroughs.
 
 ## Fan content
 
