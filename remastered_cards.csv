@@ -1,0 +1,14 @@
+﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor,Cut (colorless),Cut (vanilla),Cut (other)
+Angelic Gift,{1}{W},Enchantment — Aura,"Enchant creature
+When this Aura enters, draw a card.
+Enchanted creature has flying.",,common,,,,,,,,,1
+Silverchase Fox,{1}{W},Creature — Fox,"{1}{W}, Sacrifice this creature: Exile target enchantment.",2/2,common,,,,,,,,,1
+Kitesail Corsair,{1}{U},Creature — Human Pirate,This creature has flying as long as it's attacking.,2/1,common,,,,,,,,,1
+Totally Lost,{4}{U},Instant,Put target nonland permanent on top of its owner's library.,,common,,,,,,,,,1
+Eyeblight Assassin,{2}{B},Creature — Elf Assassin,"When this creature enters, target creature an opponent controls gets -1/-1 until end of turn.",2/2,common,,,,,,,,,1
+Liturgy of Blood,{3}{B}{B},Sorcery,Destroy target creature. Add {B}{B}{B}.,,common,,,,,,,,,1
+Bathe in Dragonfire,{2}{R},Sorcery,Bathe in Dragonfire deals 4 damage to target creature.,,common,,,,,,,,,1
+Stadium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a player. That player adds two mana of any one color they choose.",3/3,common,,,,,,,,,1
+Fertile Ground,{1}{G},Enchantment — Aura,"Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.",,common,,,,,,,,,1
+Kraul Warrior,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn.,2/2,common,,,,,,,,,1
