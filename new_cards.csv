@@ -1,0 +1,30 @@
+﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor
+Eidolon of Angels,{1}{W},Enchantment Creature — Spirit,"Bestow {2}{W} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Flying
+Enchanted creature gets +2/+2 and has flying.",2/2,uncommon,,,,,,
+Yellow Card,{2}{W},Instant,"Assist (Another player can pay up to {2} of this spell’s cost.)
+Exile target artifact or enchantment.",,uncommon,1,,,,,
+[1W 3/1],,,,,uncommon,,,,,,
+Zephyr Winder,{1}{U},Creature — Elemental,"Flying
+Whenever this creature deals combat damage to a player, untap up to one target creature.",2/1,uncommon,,,,,,
+Lost Under the Stadium,{3}{U}{U},Instant,"Assist (Another player can pay up to {3} of this spell's cost.)
+Put target nonland permanent on top of its owner's library.",,uncommon,1,,,,,
+[U 0/4],,,,,uncommon,,,,,,
+Stern Referee,{2}{B},Creature — Elf Noble,"When this creature enters, put a +1/+1 counter on target creature your team controls and a -1/-1 counter on target creature your team doesn't control.",3/1,uncommon,,,,1,,
+Annihilating Glare,{B},Sorcery,"As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
+Destroy target creature or planeswalker.",,uncommon,,,,,,
+[3B 3/4],,,,,uncommon,,,,,,
+Shower with Dragonfire,{3}{R},Sorcery,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Shower with Dragonfire deals 4 damage to target creature.",,uncommon,,,,,,
+Premium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a player. That player draws a card, discards a card, and adds two mana of any one color they choose.",3/3,uncommon,,,,,,
+[3RR 4/5],,,,,uncommon,,,,,,
+Mana Bloom,{X}{G},Enchantment,"This enchantment enters with X charge counters on it.
+Remove a charge counter from this enchantment: Add one mana of any color. Activate only once each turn.
+At the beginning of your upkeep, if this enchantment has no charge counters on it, return it to its owner’s hand.",,uncommon,,,,,,
+Kraul Brawler,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn. Any player may activate this ability.,2/2,uncommon,,,,,,
+[4GG 6/6],,,,,uncommon,,,,,,
+[2 2/2],,,,,uncommon,,,,,,
+[3 3/1],,,,,uncommon,,,,,,
+[3 1/4],,,,,uncommon,,,,,,
+[5 4/4],,,,,uncommon,,,,,,
+[7 5/7],,,,,uncommon,,,,,,
