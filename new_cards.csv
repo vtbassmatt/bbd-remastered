@@ -36,7 +36,7 @@ Load out {1}{G} ({1}{G}: Attach to target creature your team controls; or unatta
 Ticket Tortoise,{2},Artifact Creature — Turtle,"Defender
 When this creature enters, if an opponent controls more lands than you, you create a Treasure token.",3/1,uncommon,,,,,,
 Copper Squire,{3},Artifact Creature — Golem,{T}: Attach target Equipment you control to target creature your team controls.,2/2,uncommon,,,,,,
-Unexpected Powerup,{3},Instant,"Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
+Combat Training,{2},Instant,"Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 Flashback {1}",,uncommon,,,,,,
 Referee's Call,{5},Sorcery,"For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.",,uncommon,,,,,1,
