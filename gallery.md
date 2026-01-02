@@ -1,6 +1,6 @@
 # Remaster Gallery
 
-## Vanilla commons
+## Vanilla commons ➡️ uncommons
 
 New mechanic: **Load out**.
 
@@ -15,7 +15,7 @@ New mechanic: **Load out**.
 | ![Earth Elemental](https://cards.scryfall.io/normal/front/6/5/659eeb25-b79b-4229-9d84-e28f6a636958.jpg?1562915626) | Earthen Greaves {3}{R}{R}<br>Artifact Creature — Equipment Elemental<br>Menace<br>Equipped creature gets +4/+5 and has menace.<br>Load out {1}{R}<br>4/5
 | ![Cowl Prowler](https://cards.scryfall.io/normal/front/f/3/f372f545-b70c-470b-9aab-4a2ea900f777.jpg?1562943932) | Wurm Gauntlets {4}{G}{G}<br>Artifact Creature — Equipment Wurm<br>Trample<br>Equipped creature gets +6/+6 and has trample.<br>Load out {1}{G}<br>6/6
 
-## Role-filler colorless
+## Role-filler colorless ➡️ uncommons
 
 | BBD card | Remastered as |
 |----------|---------------|
@@ -25,7 +25,7 @@ New mechanic: **Load out**.
 | ![Stone Golem](https://cards.scryfall.io/normal/front/a/5/a579b67a-a5ac-496e-be41-9eabe29d0e93.jpg?1562928430) | Referee's Call {5}<br>Sorcery<br>For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.<br><br>Filling in the colorless slot of the Friend or Foe cycle. In a 2HG game, this still nets the team 4/4 worth of bodies.
 | ![Hexplate Golem](https://cards.scryfall.io/normal/front/9/8/98534255-d8cd-4f42-8b90-f5672fb879a2.jpg?1562925747) | Mechanical Official {7}<br>Artifact Creature — Construct<br>When this creature enters, support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.<br>1/3<br><br>If you choose to support no other creatures, the card remains a 5/7 for 7. But with this design, you can give away up to 4 P/T in the form of counters on other creatures instead.
 
-## Upgrades
+## Upgraded uncommons
 
 | BBD card | Remastered as |
 |----------|---------------|
