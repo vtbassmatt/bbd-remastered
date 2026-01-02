@@ -40,4 +40,4 @@ Unexpected Powerup,{3},Instant,"Target creature gains your choice of flying, vig
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 Flashback {1}",,uncommon,,,,,,
 Referee's Call,{5},Sorcery,"For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.",,uncommon,,,,,1,
-Mechanical Official,{7},Artifact Creature — Construct,"Support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
+Mechanical Official,{7},Artifact Creature — Construct,"When this creatures enters, support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
