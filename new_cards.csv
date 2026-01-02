@@ -1,7 +1,8 @@
 ﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor
-Eidolon of Angels,{1}{W},Enchantment Creature — Spirit,"Bestow {2}{W} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
-Flying
-Enchanted creature gets +2/+2 and has flying.",2/2,uncommon,,,,,,
+Like a Bird // Dodge,{W} // {W},Enchantment — Aura // Instant — Adventure,"Enchant creature
+Enchanted creature has flying.
+//
+Exile target creature, then return it to the battlefield under its owner's control.",,uncommon,,,,,,
 Yellow Card,{2}{W},Instant,"Assist (Another player can pay up to {2} of this spell’s cost.)
 Exile target artifact or enchantment.",,uncommon,1,,,,,
 Effortless Wings,{1}{W},Artifact Creature — Equipment Angel,"Flying
