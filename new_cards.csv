@@ -1,12 +1,16 @@
 ﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor
-Eidolon of Angels,{1}{W},Enchantment Creature — Spirit,"Bestow {2}{W} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
-Flying
-Enchanted creature gets +2/+2 and has flying.",2/2,uncommon,,,,,,
-Yellow Card,{2}{W},Instant,"Assist (Another player can pay up to {2} of this spell’s cost.)
-Exile target artifact or enchantment.",,uncommon,1,,,,,
+Like a Bird // Dodge,{W} // {W},Enchantment — Aura // Instant — Adventure,"Enchant creature
+Enchanted creature has flying.
+//
+Exile target creature, then return it to the battlefield under its owner's control.",,uncommon,,,,,,
+Call for a Ref,{2}{W},Instant,"Assist (Another player can pay up to {2} of this spell’s cost.)
+Choose one:
+• Exile target artifact.
+• Exile target enchantment.
+• You and target player each create a 2/2 white Soldier creature token.",,uncommon,1,,,,,
 Effortless Wings,{1}{W},Artifact Creature — Equipment Angel,"Flying
-Equipped creature gets +3/+1 and has flying.
-Load out {1}{W} ({1}{W}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",3/1,uncommon,,,,,,
+Equipped creature gets +2/+1 and has flying.
+Load out {1}{W} ({1}{W}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",2/1,uncommon,,,,,,
 Zephyr Winder,{1}{U},Creature — Elemental,"Flying
 Whenever this creature deals combat damage to a player, untap up to one target creature.",2/1,uncommon,,,,,,
 Lost Under the Stadium,{3}{U}{U},Instant,"Assist (Another player can pay up to {3} of this spell's cost.)
@@ -15,8 +19,8 @@ Portable Fortress,{1}{U},Artifact Creature — Equipment Kraken,"Flash, defender
 Equipped creature gets +0/+4, has vigilance, and loses defender.
 Load out {1}{U} ({1}{U}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",0/4,uncommon,,,,,,
 Stern Referee,{2}{B},Creature — Elf Noble,"When this creature enters, put a +1/+1 counter on target creature your team controls and a -1/-1 counter on target creature your team doesn't control.",3/1,uncommon,,,,1,,
-Annihilating Glare,{B},Sorcery,"As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.
-Destroy target creature or planeswalker.",,uncommon,,,,,,
+Strike Down,{4}{B},Sorcery,"Assist (Another player can pay up to {4} of this spell's cost.)
+Destroy target creature or planeswalker.",,uncommon,,,,1,,
 Tasteful Battlehelm,{2}{B},Artifact Creature — Equipment Azra,"Deathtouch
 Equipped creature gets +2/+3 and has deathtouch.
 Load out {1}{B} ({1}{B}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",2/3,uncommon,,,,,,
@@ -36,8 +40,8 @@ Load out {1}{G} ({1}{G}: Attach to target creature your team controls; or unatta
 Ticket Tortoise,{2},Artifact Creature — Turtle,"Defender
 When this creature enters, if an opponent controls more lands than you, you create a Treasure token.",3/1,uncommon,,,,,,
 Copper Squire,{3},Artifact Creature — Golem,{T}: Attach target Equipment you control to target creature your team controls.,2/2,uncommon,,,,,,
-Unexpected Powerup,{3},Instant,"Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
+Combat Training,{2},Instant,"Target creature gains your choice of flying, vigilance, deathtouch, or lifelink until end of turn.
 Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
 Flashback {1}",,uncommon,,,,,,
-Referee's Call,{5},Sorcery,"For each player, choose friend or foe. Each friend creates a 2/2 colorless Construct creature token. Each foe's creatures get -2/-2 until end of turn.",,uncommon,,,,,1,
-Mechanical Official,{7},Artifact Creature — Construct,"Support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
+Last Year's Trophy,{1},Artifact,"{1}, {T}: Add one mana of any color. Your teammates may activate this ability. (They have to ask your permission first.)",,uncommon,,,,1,,
+Mechanical Official,{7},Artifact Creature — Construct,"When this creatures enters, support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
