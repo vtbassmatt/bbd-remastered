@@ -30,9 +30,8 @@ Premium Vendors,{3}{R},Creature — Goblin,"When this creature enters, choose a 
 Earthen Greaves,{3}{R}{R},Artifact Creature — Equipment Elemental,"Menace
 Equipped creature gets +4/+5 and has menace.
 Load out {1}{R} ({1}{R}: Attach to target creature your team controls; or unattach from a creature. Load out only as a sorcery. While attached, this isn’t a creature.)",4/5,uncommon,,,,,,
-Mana Bloom,{X}{G},Enchantment,"This enchantment enters with X charge counters on it.
-Remove a charge counter from this enchantment: Add one mana of any color. Activate only once each turn.
-At the beginning of your upkeep, if this enchantment has no charge counters on it, return it to its owner’s hand.",,uncommon,,,,,,
+Fans All Over the Multiverse,{1}{G},Sorcery,"Target player creates a tapped colorless land token named Everywhere that is every basic land type.
+Exile Fans All Over the Multiverse.",,uncommon,,,,,,
 Kraul Brawler,{1}{G},Creature — Insect Warrior,{5}{G}: This creature gets +3/+3 until end of turn. Any player may activate this ability.,2/2,uncommon,,,,,,
 Wurm Gauntlets,{4}{G}{G},Artifact Creature — Equipment Wurm,"Trample
 Equipped creature gets +6/+6 and has trample.
