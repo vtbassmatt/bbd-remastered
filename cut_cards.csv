@@ -1,4 +1,4 @@
-Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor,Cut (colorless),Cut (vanilla),Cut (other)
+Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor,Cut (colorless),Cut (vanilla),Cut (friend/foe)
 Raptor Companion,{1}{W},Creature — Dinosaur,,3/1,common,,,,,,,,1,
 Kraken Hatchling,{U},Creature — Kraken,,0/4,common,,,,,,,,1,
 Prakhata Club Security,{3}{B},Creature — Aetherborn Warrior,,3/4,common,,,,,,,,1,
@@ -9,3 +9,8 @@ Night Market Guard,{3},Artifact Creature — Construct,This creature can block a
 Yotian Soldier,{3},Artifact Creature — Soldier,Vigilance,1/4,common,,,,,,,1,,
 Stone Golem,{5},Artifact Creature — Golem,,4/4,common,,,,,,,1,,
 Hexplate Golem,{7},Artifact Creature — Golem,,5/7,common,,,,,,,1,,
+Regna's Sanction,{3}{W},Sorcery,"For each player, choose friend or foe. Each friend puts a +1/+1 counter on each creature they control. Each foe chooses one untapped creature they control, then taps the rest.",,rare,,,,,1,,,,1
+Zndrsplt's Judgment,{4}{U},Sorcery,"For each player, choose friend or foe. Each friend creates a token that's a copy of a creature they control. Each foe returns a creature they control to its owner's hand.",,rare,,,,,1,,,,1
+Virtus's Maneuver,{2}{B},Sorcery,"For each player, choose friend or foe. Each friend returns a creature card from their graveyard to their hand. Each foe sacrifices a creature of their choice.",,rare,,,,,1,,,,1
+Khorvath's Fury,{4}{R},Sorcery,"For each player, choose friend or foe. Each friend discards all cards from their hand, then draws that many cards plus one. Khorvath's Fury deals damage to each foe equal to the number of cards in their hand.",,rare,,,,,1,,,,1
+Pir's Whim,{3}{G},Sorcery,"For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles. Each foe sacrifices an artifact or enchantment of their choice.",,rare,,,,,1,,,,1

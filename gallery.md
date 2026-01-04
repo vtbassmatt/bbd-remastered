@@ -39,3 +39,13 @@ New mechanic: **Load out**.
 | ![Stadium Vendors](https://cards.scryfall.io/normal/front/2/d/2d25baa1-4794-4bed-bf0c-7d99f39f9656.jpg?1562904205) | Premium Vendors {3}{R}<br>Creature — Goblin<br>When this creature enters, choose a player. That player draws a card, discards a card, and adds two mana of any one color they choose.<br>3/3<br><br>A simple upgrade adding a rummage effect.
 | ![Fertile Ground](https://cards.scryfall.io/normal/front/c/1/c1797305-1cb0-4330-a6f2-66951037e9be.jpg?1562933871) | Fans All Over the Multiverse {1}{G}<br>Sorcery<br>Target player creates a tapped colorless land token named Everywhere that is every basic land type.<br>Exile Fans All Over the Multiverse.<br><br>Reads a bit more exciting, but functions mostly the same as Fertile Ground ("target player has access to an extra land-based mana each turn"). And <a href="https://scryfall.com/card/tdsk/16/everywhere">Everywhere</a> is a canon token.
 | ![Kraul Warrior](https://cards.scryfall.io/normal/front/3/e/3e57df40-d73c-46fa-beef-014cc0df34a5.jpg?1562907515) | Kraul Brawler {1}{G}<br>Creature — Insect Warrior<br>{5}{G}: This creature gets +3/+3 until end of turn. Any player may activate this ability.<br>2/2<br><br>A straight upgrade letting the team help pay for the ability.
+
+## Friend or Foe rares
+
+| BBD card | Remastered as |
+|----------|---------------|
+| ![Regna's Sanction](https://cards.scryfall.io/normal/front/3/e/3ea0c6c5-f782-40bf-a0c9-ee7e97963146.jpg?1562907563) |  |
+| ![Zndrsplt's Judgement](https://cards.scryfall.io/normal/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779) |  |
+| ![Virtus's Maneuver](https://cards.scryfall.io/normal/front/7/3/73f2e058-c1a8-4a66-b1da-1b3885c6736f.jpg?1562918200) |  |
+| ![Khorvath's Fury](https://cards.scryfall.io/normal/front/3/9/39107560-58d5-4a7d-84a0-df26f89856b4.jpg?1562906488) |  |
+| ![Pir's Whim](https://cards.scryfall.io/normal/front/b/8/b816ce6e-d876-4c6d-83ed-e3887dcfa5d5.jpg?1562932061) |  |
