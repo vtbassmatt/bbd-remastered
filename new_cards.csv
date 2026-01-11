@@ -1,4 +1,8 @@
 ﻿Name,Mana Cost,Type Line,Oracle Text,Power/Toughness/Loyalty,Rarity,Assist,Support,Partner With,Your Team,Friend or Foe,Allied Multicolor
+Kylem's Podium,{2},Artifact,"{1}: Add one mana of any color.
+Melds with Regna and Kran, Zndrsplt and Okaun, Virtus and Gorm, Khorvath and Sylvia, or Pir and Toothy.
+//
+III. Gain 3 life and draw a card. Exile this saga, then return this card to the battlefield face up.",,common,,,,,,
 Like a Bird // Dodge,{W} // {W},Enchantment — Aura // Instant — Adventure,"Enchant creature
 Enchanted creature has flying.
 //
@@ -44,3 +48,25 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 Flashback {1}",,uncommon,,,,,,
 Last Year's Trophy,{1},Artifact,"{1}, {T}: Add one mana of any color. Your teammates may activate this ability. (They have to ask your permission first.)",,uncommon,,,,1,,
 Mechanical Official,{7},Artifact Creature — Construct,"When this creatures enters, support 4, then put a number of +1/+1 counters on this creature equal to 4 minus the number of supported creatures.",1/3,uncommon,,1,,,,
+Regna and Krav // Regna's Story,{2}{W}{B},Legendary Creature — Angel Demon // Enchantment — Saga,"Flying
+{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Regna's Story.
+//
+I, II. Put a +1/+1 counter on target creature. Tap up to two target creatures.",4/3,rare,,,,,,
+Zndrsplt and Okaun // Zndrsplt's Story,{1}{U}{R},Legendary Creature — Homunculus Cyclops // Enchantment — Saga,"Whenever this creature deals combat damage to a player, draw a card.
+{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Zndrsplt's Story.
+//
+I, II. Create a token copy of a creature your team controls. Return up to one target creature to its owner's hand.",3/4,rare,,,,,,
+Virtus and Gorm // Virtus's Story,{2}{B}{G},Legendary Creature — Azra Giant // Enchantment — Saga,"Trample
+{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Virtus's Story.
+//
+I, II. Return target creature card from a graveyard to its owner's hand. Target player sacrifices a creature they control.",5/4,rare,,,,,,
+Khorvath and Sylvia // Khorvath's Story,{2}{R}{W},Legendary Creature — Dragon Human // Enchantment — Saga,"Double strike
+{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Khorvath's Story.
+//
+I. This saga deals damage to target player equal to the number of cards in their hand.
+II. Target player discards all cards from their hand, then draws that many cards plus one.",2/4,rare,,,,,,
+Pir and Toothy // Pir's Story,{1}{G}{U},Legendary Creature — Human Illusion // Enchantment — Saga,"Whenever you put one or more +1/+1 counters on a creature, draw a card.
+{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Pir's Story.
+//
+I. Target player sacrifices an artifact or enchantment they control.
+II. Target player searches their library for a land card, puts it onto the battlefield tapped, then shuffles.",2/2,rare,,,,,,

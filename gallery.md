@@ -42,10 +42,15 @@ New mechanic: **Load out**.
 
 ## Friend or Foe rares
 
+This is a cycle of Meld sagas. At common, there's a bottom-half with chapter III which is the same for all 5 characters. Each of the characters is a unique top-half with a name and chapters I/II.
+
+It's not at all clear if these effects or creative treatments are the best. They're a good start, though.
+
 | BBD card | Remastered as |
 |----------|---------------|
-| ![Regna's Sanction](https://cards.scryfall.io/normal/front/3/e/3ea0c6c5-f782-40bf-a0c9-ee7e97963146.jpg?1562907563) |  |
-| ![Zndrsplt's Judgement](https://cards.scryfall.io/normal/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779) |  |
-| ![Virtus's Maneuver](https://cards.scryfall.io/normal/front/7/3/73f2e058-c1a8-4a66-b1da-1b3885c6736f.jpg?1562918200) |  |
-| ![Khorvath's Fury](https://cards.scryfall.io/normal/front/3/9/39107560-58d5-4a7d-84a0-df26f89856b4.jpg?1562906488) |  |
-| ![Pir's Whim](https://cards.scryfall.io/normal/front/b/8/b816ce6e-d876-4c6d-83ed-e3887dcfa5d5.jpg?1562932061) |  |
+| _(new common card)_ | Kylem's Podium {2}<br>Artifact<br>{1}: Add one mana of any color.<br>Melds with Regna and Kran, Zndrsplt and Okaun, Virtus and Gorm, Khorvath and Sylvia, or Pir and Toothy.<br>//<br>III. Gain 3 life and draw a card. Exile this saga, then return this card to the battlefield face up.
+| ![Regna's Sanction](https://cards.scryfall.io/normal/front/3/e/3ea0c6c5-f782-40bf-a0c9-ee7e97963146.jpg?1562907563) | Regna and Krav {2}{W}{B}<br>Legendary Creature — Angel Demon<br>Flying<br>{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Regna's Story.<br>4/3<br>//<br>Regna's Story<br>Enchantment — Saga<br>I, II. Put a +1/+1 counter on target creature. Tap up to two target creatures.
+| ![Zndrsplt's Judgement](https://cards.scryfall.io/normal/front/1/7/17eed02c-e2af-4642-b411-1b20494109a7.jpg?1562899779) | Zndrsplt and Okaun {1}{U}{R}<br>Legendary Creature — Homunculus Cyclops<br>Whenever this creature deals combat damage to a player, draw a card.<br>{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Zndrsplt's Story.<br>3/4<br>//<br>Zndrsplt's Story<br>Enchantment — Saga<br>I, II. Create a token copy of a creature your team controls. Return up to one target creature to its owner's hand.
+| ![Virtus's Maneuver](https://cards.scryfall.io/normal/front/7/3/73f2e058-c1a8-4a66-b1da-1b3885c6736f.jpg?1562918200) | Virtus and Gorm {2}{B}{G}<br>Legendary Creature — Azra Giant<br>Trample<br>{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Virtus's Story.<br>5/4<br>//<br>Virtus's Story<br>Enchantment — Saga<br>I, II. Return target creature card from a graveyard to its owner's hand. Target player sacrifices a creature they control.
+| ![Khorvath's Fury](https://cards.scryfall.io/normal/front/3/9/39107560-58d5-4a7d-84a0-df26f89856b4.jpg?1562906488) | Khorvath and Sylvia {2}{R}{W}<br>Legendary Creature — Dragon Human<br>Double strike<br>{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Khorvath's Story.<br>2/4<br>//<br>Khorvath's Story<br>Enchantment — Saga<br>I. This saga deals damage to target player equal to the number of cards in their hand.<br>II. Target player discards all cards from their hand, then draws that many cards plus one.
+| ![Pir's Whim](https://cards.scryfall.io/normal/front/b/8/b816ce6e-d876-4c6d-83ed-e3887dcfa5d5.jpg?1562932061) | Pir and Toothy {1}{G}{U}<br>Legendary Creature — Human Illusion<br>Whenever you put one or more +1/+1 counters on a creature, draw a card.<br>{T}: If your team both owns and controls this creature and an artifact named Kylem's Podium, exile them, then meld them into Pir's Story.<br>2/2<br>//<br>Pir's Story<br>Enchantment — Saga<br>I. Target player sacrifices an artifact or enchantment they control.<br>II. Target player searches their library for a land card, puts it onto the battlefield tapped, then shuffles.
