@@ -26,13 +26,17 @@ The original [Battlebond card list](battlebond_cards.csv) had some weak spots.
 - The five least interesting colorless creatures cut
 - Two commons per color upgraded
 
+Also, the rare Friend or Foe sorceries may not be optimal for 2HG.
+
 ### Additions
 
-The cut slots were shifted to uncommon and [replaced](new_cards.csv).
+The cut common slots were shifted to uncommon and [replaced](new_cards.csv).
 
 - The vanilla creatures are replaced by a new cycle of equipment creatures modeled after the Reconfigure cards in Neon Dynasty. They use a mechanic called "Load out", which is Reconfigure but you can attach them to creatures your team controls.
 - The colorless creatures were replaced with various role-fillers both canon and non-canon.
 - The rest of the cut commons were upgraded to be more interesting.
+
+Also, the Friend or Foe sorceries were replaced with `TODO`.
 
 See the [gallery](gallery.md) for card-by-card walkthroughs.
 
